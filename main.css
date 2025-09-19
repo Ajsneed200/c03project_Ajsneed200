@@ -1,2 +1,7 @@
 nav ul {
 background-color: rgb (175, 175, 175);
+line-height: 2em;
+list-style-type: none;
+paddng-left: 0px;
+text-indent: 5px;
+border-radius: 5px;
