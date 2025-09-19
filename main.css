@@ -14,7 +14,7 @@ nav {
 }
 
 nav ul {
-background-color: rgb(205, 5, 5);
+background-color: rgb(90, 26, 207);
 line-height: 2em;
 list-style-type: none;
 text-indent: 5px;
@@ -22,7 +22,12 @@ border-radius: 5px;
 }
 
 nav ul li:hover {
-background-color: rgb(75, 29, 160);
+background-color: rgb(205, 5, 5);
 border-radius: 5px;
 }
 
+nav ul li a {
+    color: rgb(0,255,255);
+font-weight: bold;
+text-decoration: none;
+}
