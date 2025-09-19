@@ -1,14 +1,28 @@
+html, body {
+    height: 100%;
+}
+
+footer, header, section, nav {
+    display: block;
+}
+
+nav {
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+    margin-top: -35px;
+}
+
 nav ul {
-background-color: rgb (175, 175, 175);
+background-color: rgb(205, 5, 5);
 line-height: 2em;
 list-style-type: none;
-paddng-left: 0px;
 text-indent: 5px;
 border-radius: 5px;
 }
 
 nav ul li:hover {
-background-color: rgb(148,51,62);
+background-color: rgb(75, 29, 160);
 border-radius: 5px;
 }
 
