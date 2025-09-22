@@ -37,3 +37,13 @@ nav ul li a {
 section table tr:nth-child(even) {
     background-color: rgb(95, 131, 252);
 }
+
+section img#png_image {
+    width: 240px;
+    height: 250px;
+}
+
+section img#jpg_image {
+    width: 240px;
+    height: 250px;
+}
