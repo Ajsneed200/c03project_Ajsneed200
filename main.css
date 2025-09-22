@@ -47,3 +47,12 @@ section img#jpg_image {
     width: 240px;
     height: 250px;
 }
+
+.bordered-image {
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-color: rgb(143, 5, 255) rgb(98, 0, 255);
+    background-color: black;
+    border-radius: 20px;
+}
