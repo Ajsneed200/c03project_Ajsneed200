@@ -33,3 +33,7 @@ nav ul li a {
     font-weight: bold;
     text-decoration: none;
 }
+
+section table tr:nth-child(even) {
+    background-color: rgb(95, 131, 252);
+}
